@@ -2,8 +2,7 @@
 
 > A full-stack online Pong application built on microservices, offering tournament matchmaking, a human-behaviour simulation engine for single-player gameplay, a dedicated WebSocket real-time service, an administrative dashboard, centralized logging/monitoring with ELK, and a WAF-secured infrastructure - built for the 42 **ft_transcendence** project.
 
-I had the pleasure of working with [**Yulia**](https://github.com/leanor13), [**Juan**](https://github.com/martinzx13) and [**Camille**](https://github.com/CamilleJMBouvet). I learned a lot about modern web development, architecture, and building scalable systems.
-I’m incredibly grateful for such a supportive and motivated team. 👏
+This is the diploma project developed by our team: [**Yulia**](https://github.com/leanor13), [**Tina**](https://github.com/ngtina99), [**Juan**](https://github.com/martinzx13) and [**Camille**](https://github.com/CamilleJMBouvet). 
 
 <div align="center">
 
@@ -577,14 +576,7 @@ Assuming the WAF resolves to https://<LAN_IP> (printed by the Makefile):
 ---
 
 ## 14. Credits
-I had the pleasure of working with [**Yulia**](https://github.com/leanor13), [**Juan**](https://github.com/martinzx13) and [**Camille**](https://github.com/CamilleJMBouvet) on our ft_transcendence project. I'm really proud of how we combined our skills, supported each other, and turned our teamwork into a project we’re all proud of. 🌟
+I had the pleasure of working with [**Tina**](https://github.com/ngtina99), [**Juan**](https://github.com/martinzx13) and [**Camille**](https://github.com/CamilleJMBouvet) on our ft_transcendence project.
 
-## 15. Connect
-If you have any questions or suggestions, feel free to connect:
-🔗 [LinkedIn: Valentina Nguyen](https://www.linkedin.com/in/valentina-nguyen-t/) 🙋‍♀️
-
-## 16. License
-This project is licensed under the MIT License. See LICENSE for details.
-
-## 17. System Compatibility
+## 15. System Compatibility
 This project was developed and tested on macOS and Linux (Ubuntu).
